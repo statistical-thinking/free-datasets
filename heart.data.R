@@ -1,5 +1,5 @@
 # Datensatz einlesen
-heart.data <- read.csv("https://raw.githubusercontent.com/statistical-thinking/datasets/main/heart.data.csv")
+heart.data <- read.csv("https://raw.githubusercontent.com/statistical-thinking/free-datasets/main/heart.data.csv")
 
 # Univariate Statistik
 dim(heart.data)
